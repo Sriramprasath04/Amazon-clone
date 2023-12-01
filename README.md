@@ -19,7 +19,7 @@ You'll be able to explore the replica Amazon home page and see how it was put to
 
 
 ## Project-Link
-Visit link:- 
+Visit link:- https://sriramprasath04.github.io/Amazon-clone/
 
 ## Screen-shot of Project
 ![127 0 0 1_5500_index html](https://github.com/Sriramprasath04/Amazon-clone/assets/109743739/2dd71267-ed97-47fb-8bcc-efd9bb57dd2c)
